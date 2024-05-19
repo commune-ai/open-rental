@@ -40,7 +40,3 @@ Enjoy a seamless and intuitive user experience designed for both novice and expe
 ## Conclusion
 
 The Rental Properties SaaS Platform is your comprehensive solution for effective rental property management and investment in Canada. We are committed to helping you find and manage the best rental properties with ease and confidence.
-
-## Support
-
-For any questions or assistance, please contact our support team at support@rentalplatform.com. Our team is dedicated to providing you with the best possible experience.
